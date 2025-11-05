@@ -27,7 +27,7 @@
 <tr>
 <td>4</td>
 <td>2025</td>
-<td>Работа с функциями, методы</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/Python_4_Function.ipynb">Работа с функциями</a>, <a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/Python_5_%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC.ipynb">методы</a></td>
 <tr>
 <td>5</td>
 <td>2025</td>
