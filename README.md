@@ -35,7 +35,7 @@
 <tr>
 <td>6</td>
 <td>2025</td>
-<td>Регулярные выражения, препроцессинг</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/Python_6_regex.ipynb">Регулярные выражения, препроцессинг</a></td>
 <tr>
 <td>7</td>
 <td>2025</td>
