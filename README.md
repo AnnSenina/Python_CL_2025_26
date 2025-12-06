@@ -51,11 +51,11 @@
 <tr>
 <td>10</td>
 <td>2025</td>
-<td>Анализ данных и визуализация</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/Python_11_Viz.ipynb">Анализ данных и визуализация</a></td>
 <tr>
 <td>11</td>
 <td>2025</td>
-<td>собираем корпус: парсеры,краулеры,скрейперы</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/Python_12_BeautifulSoup.ipynb">собираем корпус: парсеры,краулеры,скрейперы</a></td>
 <tr>
 <td>12</td>
 <td>2025</td>
