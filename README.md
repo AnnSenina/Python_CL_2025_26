@@ -59,7 +59,7 @@
 <tr>
 <td>12</td>
 <td>2025</td>
-<td>Classes and objects</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/Python_13_intro_to_OOP.ipynb">Classes and objects</a></td>
 <tr>
 <td>13</td>
 <td>2025</td>
