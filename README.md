@@ -67,7 +67,7 @@
 <tr>
 <td>14</td>
 <td>2026</td>
-<td>numpy, pandas к машинному обучению</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/1_NumPy.ipynb">numpy</a>, <a href="https://github.com/AnnSenina/Python_CL_2025_26/blob/main/notebooks/2_pandas.ipynb">pandas</a> к машинному обучению</td>
 <tr>
 <td>15-...</td>
 <td>2026</td>
